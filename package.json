@@ -17,5 +17,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/glvnhdt/amounter/issues"
+  },
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.1.0"
   }
 }
